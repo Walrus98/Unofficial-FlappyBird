@@ -4,7 +4,8 @@ Unofficial FlappyBird game created using Libgdx libraries
 
 ## Setting up
 
-Just open project with your IDE and make sure that libs folder is include in your workspace.
+Just open project with your IDE and make sure that libs folder is include in your workspace. 
+Note: this game is not written tu run as Android or iOs application.
 
 ### Screenshoots of the game
 
