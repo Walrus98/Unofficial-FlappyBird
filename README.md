@@ -9,7 +9,7 @@ Note: this game is not written tu run as Android or iOs application.
 
 ### Screenshoots of the game
 
-<img align="center" src="https://user-images.githubusercontent.com/48760676/65818473-030d4200-e212-11e9-8938-b14dac73c647.png">
+<img align="right" src="https://user-images.githubusercontent.com/48760676/65818473-030d4200-e212-11e9-8938-b14dac73c647.png">
 <img align="center" src="https://user-images.githubusercontent.com/48760676/65818474-030d4200-e212-11e9-997b-9dfe56e5849a.png">
 
 ### Running the game
