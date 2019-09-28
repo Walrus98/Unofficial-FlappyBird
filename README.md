@@ -1,2 +1,2 @@
 # FlappyBird Unofficial
- Unofficial FlappyBird game created using Libgdx libraries
+## Unofficial FlappyBird game created using Libgdx libraries
