@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="core/src"/>
+	<classpathentry kind="src" path="desktop/src"/>
+	<classpathentry kind="src" path="assets"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="D:/Documenti/Workspace/Java/FlappyBird/libs/gdx.jar" sourcepath=""/>
+	<classpathentry kind="lib" path="D:/Documenti/Workspace/Java/FlappyBird/libs/gdx-backend-android.jar"/>
+	<classpathentry kind="lib" path="D:/Documenti/Workspace/Java/FlappyBird/libs/gdx-backend-gwt.jar"/>
+	<classpathentry kind="lib" path="D:/Documenti/Workspace/Java/FlappyBird/libs/gdx-backend-headless.jar"/>
+	<classpathentry kind="lib" path="D:/Documenti/Workspace/Java/FlappyBird/libs/gdx-backend-lwjgl.jar"/>
+	<classpathentry kind="lib" path="D:/Documenti/Workspace/Java/FlappyBird/libs/gdx-backend-lwjgl3.jar"/>
+	<classpathentry kind="lib" path="D:/Documenti/Workspace/Java/FlappyBird/libs/gdx-backend-lwjgl-natives.jar"/>
+	<classpathentry kind="lib" path="D:/Documenti/Workspace/Java/FlappyBird/libs/gdx-backend-robovm.jar"/>
+	<classpathentry kind="lib" path="D:/Documenti/Workspace/Java/FlappyBird/libs/gdx-natives.jar"/>
+	<classpathentry kind="lib" path="D:/Documenti/Workspace/Java/FlappyBird/libs/gdx-setup.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
